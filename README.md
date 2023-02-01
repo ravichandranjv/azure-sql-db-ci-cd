@@ -11,7 +11,7 @@ products:
 description: "Azure SQL Database CI/CD Pipeline with GitHub Actions"
 urlFragment: "azure-sql-db-ci-cd"
 ---
-
+# AZURE_SQL_CONNECTION_STRING added
 # Azure SQL Database CI/CD Pipeline with GitHub Actions
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
